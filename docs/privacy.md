@@ -1,12 +1,12 @@
 # Politique de confidentialité — تحضير التعليم
 
-Dernière mise à jour : 29 octobre 2026
+Dernière mise à jour : 31 octobre 2026
 
 ## Éditeur
 
 Application : تحضير التعليم.  
 Identifiant Android : `com.tamandro.prepataalim`.  
-Contact : l'adresse e-mail indiquée sur la fiche Google Play du développeur.  
+Contact : [hamidtamar5@gmail.com](mailto:hamidtamar5@gmail.com).  
 L'application est indépendante du ministère de l'Éducation nationale.
 
 ## Données que vous saisissez
@@ -43,12 +43,12 @@ Les scores restent sur l'appareil jusqu'au bouton مسح التقدم ou jusqu'�
 
 ## Vos droits
 
-Vous pouvez effacer les scores dans l'application et désinstaller l'application. Pour toute demande, écrivez à l'adresse e-mail de la fiche Google Play. Le formulaire de consentement publicitaire, lorsqu'il est proposé, permet de modifier le choix d'annonces.
+Vous pouvez effacer les scores dans l'application et désinstaller l'application. Pour toute demande, écrivez à [hamidtamar5@gmail.com](mailto:hamidtamar5@gmail.com). Le formulaire de consentement publicitaire, lorsqu'il est proposé, permet de modifier le choix d'annonces.
 
 ## Modifications
 
-Cette page est datée du 29 octobre 2026. Elle sera mise à jour si les traitements changent.
+Cette page est datée du 31 octobre 2026. Elle sera mise à jour si les traitements changent.
 
 ## Contact
 
-L'adresse e-mail de la fiche Google Play du développeur.
+[hamidtamar5@gmail.com](mailto:hamidtamar5@gmail.com)
